@@ -40,6 +40,13 @@ Dataset License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 How do default rates vary across customer demographic groups?
 
+Education levels in the dataset are coded as:
+
+- 1 = Graduate School
+- 2 = University
+- 3 = High School
+- 4 = Others
+
 ### Key Findings
 
 Default rates varied across the major education groups. Customers with a high school education had the highest rate at 25.16%. University graduates followed at 23.73%, while graduate school attendees had the lowest at 19.23%. These results suggest that customers with higher levels of education were generally less likely to default.
