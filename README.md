@@ -16,6 +16,8 @@ This analysis explores factors associated with credit card default and uses a de
 
 This analysis uses the Default of Credit Card Clients dataset from the UCI Machine Learning Repository. The dataset was created by I-Cheng Yeh and was donated to the UCI Machine Learning Repository on January 25, 2016.
 
+Source: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+
 The dataset contains information for 30,000 credit card customers in Taiwan and includes demographic characteristics, credit limits, repayment history, bill statements, payment amounts, and default status.
 
 The target variable is whether a customer defaulted on their next credit card payment.
