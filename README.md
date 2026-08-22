@@ -36,9 +36,7 @@ Dataset License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Research Questions
 
-### Research Question 1
-
-How do default rates vary across customer demographic groups?
+### 1) How do default rates vary across customer demographic groups?
 
 Education levels in the dataset are coded as:
 
@@ -51,17 +49,11 @@ Education levels in the dataset are coded as:
 
 Default rates varied across the major education groups. Customers with a high school education had the highest rate at 25.16%. University graduates followed at 23.73%, while graduate school attendees had the lowest at 19.23%. These results suggest that customers with higher levels of education were generally less likely to default.
 
-### Research Question 2
+### 2) How do credit limits differ between customers who default and customers who do not?
 
-How do credit limits differ between customers who default and customers who do not?
+### 3) How does repayment history relate to default status?
 
-### Research Question 3
-
-How does repayment history relate to default status?
-
-### Research Question 4
-
-Can a decision tree model predict whether a customer will default on their next payment?
+### 4) Can a decision tree model predict whether a customer will default on their next payment?
 
 ## Methods
 
