@@ -43,7 +43,7 @@ Education levels in the dataset are coded as:
 - 1 = Graduate School
 - 2 = University
 - 3 = High School
-- 4 = Others
+- 4+ = Others
 
 ### Key Findings
 
