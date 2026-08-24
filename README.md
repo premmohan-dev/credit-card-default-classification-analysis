@@ -57,6 +57,22 @@ Credit limits differed noticeably between customers who defaulted and those who 
 
 ### 3) How does repayment history relate to default status?
 
+Repayment status codes are defined as:
+
+Repayment status codes are defined as:
+
+- -2 = No consumption
+- -1 = Paid in full
+- 0 = Use of revolving credit
+- 1 = Payment delay for one month
+- 2 = Payment delay for two months
+- 3 = Payment delay for three months
+- 4+ = Payment delays of four months or longer
+
+### Key Findings
+
+Default rates varied substantially across repayment status groups. Customers with no recent repayment issues generally reported default rates between 12.81% and 16.78%. Customers with a one-month payment delay had a default rate of 33.95%, while those with a two-month delay exceeded 69%. Overall, customers with recent repayment delays were much more likely to default on their next payment.
+
 ### 4) Can a decision tree model predict whether a customer will default on their next payment?
 
 ## Methods
