@@ -59,8 +59,6 @@ Credit limits differed noticeably between customers who defaulted and those who 
 
 Repayment status codes are defined as:
 
-Repayment status codes are defined as:
-
 - -2 = No consumption
 - -1 = Paid in full
 - 0 = Use of revolving credit
