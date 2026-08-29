@@ -45,7 +45,7 @@ Education levels in the dataset are coded as:
 - 3 = High School
 - 4+ = Others
 
-<img width="700" height="417" alt="RQ1_DefaultRates" src="https://github.com/user-attachments/assets/402dcc28-1071-4f07-b2f8-db77854f2717" />
+<img width="800" height="477" alt="RQ1_DefaultRates" src="https://github.com/user-attachments/assets/402dcc28-1071-4f07-b2f8-db77854f2717" />
 
 ### Key Findings
 
