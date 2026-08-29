@@ -53,6 +53,8 @@ Default rates varied across the major education groups. Customers with a high sc
 
 ### 2) How do credit limits differ between customers who default and customers who do not?
 
+<img width="790" height="590" alt="RQ2_CreditLimits" src="https://github.com/user-attachments/assets/cca5c75e-0888-499a-b628-bab42cadb2ca" />
+
 ### Key Findings
 
 Credit limits differed noticeably between customers who defaulted and those who did not. Customers who did not default had an average credit limit of 178,099.73, compared to 130,109.66 for customers who defaulted. Higher credit limits were generally associated with lower default rates in the dataset.
