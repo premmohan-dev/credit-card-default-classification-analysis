@@ -75,7 +75,7 @@ Repayment status codes are defined as:
 
 ### Key Findings
 
-Default rates varied substantially across repayment status groups. Customers with no recent repayment issues generally reported default rates between 12.81% and 16.78%. Customers with a one-month payment delay had a default rate of 33.95%, while those with a two-month delay exceeded 69%. Overall, customers with recent repayment delays were much more likely to default on their next payment.
+Default rates varied across repayment status groups. Customers with on-time or early payments had default rates between 12.81% and 16.15%. Customers with a one-month payment delay had a default rate of 33.95%, while those with delays of two months or more had default rates near 70% or higher. Overall, recent payment delays were strongly linked to a higher risk of default.
 
 ### 4) Can a decision tree model predict whether a customer will default on their next payment?
 
