@@ -73,9 +73,11 @@ Default rates varied substantially across repayment status groups. Customers wit
 
 ### 4) Can a decision tree model predict whether a customer will default on their next payment?
 
+<img width="1850" height="1015" alt="RQ4_DecisionTree" src="https://github.com/user-attachments/assets/307f21ca-fd81-4296-9bc3-e548e0db8f76" />
+
 ### Key Findings
 
-The decision tree model achieved an accuracy of 81.92% when predicting whether a customer would default on their next payment. The model correctly classified 6,685 non-defaulting customers and 688 defaulting customers in the test dataset. While the model was more effective at identifying customers who did not default, it was still able to identify a substantial number of default cases. These results suggest that a decision tree model can be an effective tool for predicting credit card default behavior.
+The decision tree model achieved an accuracy of 81.92% when predicting whether a customer would default on their next payment. The model correctly classified 6,685 non-defaulting customers and 688 defaulting customers in the test dataset. Repayment history variables such as PAY_0, PAY_2, and PAY_3 appeared near the top of the decision tree, indicating that recent repayment behavior was among the most important factors used to predict default status. Overall, the model demonstrated that repayment history plays a significant role in credit card default behavior.
 
 ## Methods
 
