@@ -111,3 +111,11 @@ The SQL queries included in this analysis were developed and tested in Microsoft
 ## Conclusion
 
 This analysis found that several customer characteristics were associated with credit card default behavior. Customers with higher levels of education generally had lower default rates, while customers with higher credit limits were less likely to default on future payments. Repayment history was the strongest indicator of default risk, with default rates increasing substantially as payment delays became more severe. The decision tree model achieved an accuracy of 81.92%, showing that repayment history and other customer information can be used to predict whether a customer is likely to default. These results demonstrate how customer financial behavior can be used to better understand and predict credit card default.
+
+## How to Use This Project
+
+1. Review the original dataset (`Credit Card Default Raw`) included in the `data` folder.
+2. Use the cleaned `Credit Card Default Clean` dataset for analysis.
+3. Import the dataset into Microsoft Access and run the SQL queries in the `sql` folder to perform data preparation and answer Research Questions 1 through 3.
+4. Run the Python files in the `python` folder to generate visualizations and perform the decision tree classification analysis for Research Question 4.
+5. Review the charts and findings to understand how customer demographics, credit limits, and repayment history relate to credit card default behavior and prediction.
