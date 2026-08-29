@@ -61,6 +61,8 @@ Credit limits differed noticeably between customers who defaulted and those who 
 
 ### 3) How does repayment history relate to default status?
 
+<img width="986" height="564" alt="RQ3_RepaymentHistory" src="https://github.com/user-attachments/assets/f4512fd1-e0f6-4a20-9d1c-48725511c98a" />
+
 Repayment status codes are defined as:
 
 - -2 = No consumption
