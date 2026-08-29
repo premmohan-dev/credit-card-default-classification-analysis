@@ -45,6 +45,8 @@ Education levels in the dataset are coded as:
 - 3 = High School
 - 4+ = Others
 
+<img width="989" height="590" alt="RQ1_DefaultRates" src="https://github.com/user-attachments/assets/402dcc28-1071-4f07-b2f8-db77854f2717" />
+
 ### Key Findings
 
 Default rates varied across the major education groups. Customers with a high school education had the highest rate at 25.16%. University graduates followed at 23.73%, while graduate school attendees had the lowest at 19.23%. These results suggest that customers with higher levels of education were generally less likely to default.
