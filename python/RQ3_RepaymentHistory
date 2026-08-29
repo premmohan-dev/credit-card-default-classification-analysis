@@ -1,0 +1,62 @@
+# Purpose:
+# Visualize default rates across repayment status groups.
+
+# Research Question 3
+# How does repayment history relate to default status?
+
+# Import Libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Repayment Status Groups
+repayment_status = [
+    "-2",
+    "-1",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4+"
+]
+
+# Default Rates (%)
+default_rates = [
+    13.87,
+    16.15,
+    12.81,
+    33.95,
+    69.16,
+    75.99,
+    68.91
+]
+
+# Create Chart
+fig, ax = plt.subplots(figsize=(10, 6))
+
+bars = ax.bar(
+    repayment_status,
+    default_rates,
+    color="steelblue"
+)
+
+ax.set_title("Default Rate by Repayment Status")
+ax.set_xlabel("Repayment Status")
+ax.set_ylabel("Default Rate (%)")
+
+# Start y-axis at 0
+ax.set_ylim(0, 80)
+
+# Add Data Labels
+for bar in bars:
+    height = bar.get_height()
+    ax.annotate(
+        f"{height:.2f}%",
+        xy=(bar.get_x() + bar.get_width() / 2, height),
+        xytext=(0, 3),
+        textcoords="offset points",
+        ha="center",
+        va="bottom"
+    )
+
+plt.tight_layout()
+plt.show()
