@@ -103,3 +103,11 @@ The decision tree model achieved an accuracy of 81.92% when predicting whether a
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## SQL Analysis
+
+The SQL queries included in this analysis were developed and tested in Microsoft Access. These queries were used to clean and summarize the dataset, calculate default rates across customer demographic groups, compare average credit limits between customers who defaulted and those who did not, and evaluate the relationship between repayment history and default status. SQL served as the primary tool for preparing and aggregating the data prior to visualization and decision tree classification modeling.
+
+## Conclusion
+
+This analysis found that several customer characteristics were associated with credit card default behavior. Customers with higher levels of education generally had lower default rates, while customers with higher credit limits were less likely to default on future payments. Repayment history was the strongest indicator of default risk, with default rates increasing substantially as payment delays became more severe. The decision tree model achieved an accuracy of 81.92%, showing that repayment history and other customer information can be used to predict whether a customer is likely to default. These results demonstrate how customer financial behavior can be used to better understand and predict credit card default.
