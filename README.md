@@ -53,7 +53,7 @@ Default rates varied across the major education groups. Customers with a high sc
 
 ### 2) How do credit limits differ between customers who default and customers who do not?
 
-<img width="790" height="590" alt="RQ2_CreditLimits" src="https://github.com/user-attachments/assets/cca5c75e-0888-499a-b628-bab42cadb2ca" />
+<img width="650" height="485" alt="RQ2_CreditLimits" src="https://github.com/user-attachments/assets/cca5c75e-0888-499a-b628-bab42cadb2ca" />
 
 ### Key Findings
 
