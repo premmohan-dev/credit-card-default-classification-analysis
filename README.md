@@ -73,7 +73,7 @@ Default rates varied substantially across repayment status groups. Customers wit
 
 ### 4) Can a decision tree model predict whether a customer will default on their next payment?
 
-<img width="1850" height="1015" alt="RQ4_DecisionTree" src="https://github.com/user-attachments/assets/307f21ca-fd81-4296-9bc3-e548e0db8f76" />
+<img width="1569" height="799" alt="RQ4_DecisionTree" src="https://github.com/user-attachments/assets/6638d8a3-667a-4adc-8b48-af559d6e40ea" />
 
 ### Key Findings
 
